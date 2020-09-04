@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق تسجيل الدخول</string>
+    <string name="txt_username">اسم المستخدم</string>
+    <string name="txt_phone">رقم الهاتف</string>
+    <string name="txt_password">كلمه المرور</string>
+    <string name="btn_register">تسجيل</string>
+</resources>

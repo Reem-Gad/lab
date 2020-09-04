@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">registration App</string>
+    <string name="txt_username">user name :</string>
+    <string name="txt_password">password :</string>
+    <string name="txt_phone">phone :</string>
+    <string name="btn_register">register</string>
+</resources>
